@@ -1,0 +1,29 @@
+{
+  "name": "20.3_webpack",
+  "version": "1.0.0",
+  "description": "First app with Webpack",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krollukasz/20.3_Webpack.git"
+  },
+  "keywords": [
+    "Webpack",
+    "modules",
+    "learning"
+  ],
+  "author": "Łukasz Król",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krollukasz/20.3_Webpack/issues"
+  },
+  "homepage": "https://github.com/krollukasz/20.3_Webpack#readme",
+  "devDependencies": {
+    "webpack": "^4.29.5",
+    "webpack-cli": "^3.2.3"
+  }
+}
